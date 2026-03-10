@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "There for You",
+  "base_artist": "Martin Garrix & Troye Sivan",
+  "createdAt": "2026-03-10T03:23:04.068429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There For You",
+      "artist": "Leonard Cohen feat. Sharon Robinson",
+      "has_synced": true,
+      "path": "select/01_There_For_You_Leonard_Cohen_feat._Sharon_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "There For You",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/02_There_For_You_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Be There for You",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/03_I'll_Be_There_for_You_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "There For You",
+      "artist": "Clannad",
+      "has_synced": true,
+      "path": "select/04_There_For_You_Clannad.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Am There For You",
+      "artist": "Huey Lewis & The News",
+      "has_synced": false,
+      "path": "select/05_I_Am_There_For_You_Huey_Lewis_&_The_News.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let Me Be There for You",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/06_Let_Me_Be_There_for_You_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Be There for You (Theme From “Friends”) [feat. The Rembrandts]",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": false,
+      "path": "select/07_I'll_Be_There_for_You_(Theme_From_“Friends”)_[feat._The_Rembrandts]_Scott_Bradlee_&_Postmodern_Jukebox.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "There For You",
+      "artist": "Damian \"Jr. Gong\" Marley",
+      "has_synced": true,
+      "path": "select/08_There_For_You_Damian__Jr._Gong__Marley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll Be There For You",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/09_I'll_Be_There_For_You_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Be There For You",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/10_I'll_Be_There_For_You_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Be There for You",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/11_I'll_Be_There_for_You_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Could Be There For You",
+      "artist": "Eisley",
+      "has_synced": true,
+      "path": "select/12_I_Could_Be_There_For_You_Eisley.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "There For You",
+      "artist": "Flyleaf",
+      "has_synced": true,
+      "path": "select/13_There_For_You_Flyleaf.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Be There for You (Long Version)",
+      "artist": "The Rembrandts",
+      "has_synced": true,
+      "path": "select/14_I'll_Be_There_for_You_(Long_Version)_The_Rembrandts.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'll Be There for You (TV Version)",
+      "artist": "The Rembrandts",
+      "has_synced": true,
+      "path": "select/15_I'll_Be_There_for_You_(TV_Version)_The_Rembrandts.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nothing Out There for Me",
+      "artist": "Missy Elliott feat. Beyoncé Knowles",
+      "has_synced": true,
+      "path": "select/16_Nothing_Out_There_for_Me_Missy_Elliott_feat._Beyoncé_Knowles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nothing Out There For Me feat. Beyonce Knowles",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/17_Nothing_Out_There_For_Me_feat._Beyonce_Knowles_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Nothing Out There for Me (feat. Beyoncé)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/18_Nothing_Out_There_for_Me_(feat._Beyoncé)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sei con me (There for Me)",
+      "artist": "Paul Potts duet with Hayley Westenra",
+      "has_synced": false,
+      "path": "select/19_Sei_con_me_(There_for_Me)_Paul_Potts_duet_with_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sei Con Me (There For Me) [Duet With Hayley Westenra]",
+      "artist": "Paul Potts",
+      "has_synced": false,
+      "path": "select/20_Sei_Con_Me_(There_For_Me)_[Duet_With_Hayley_Westenra]_Paul_Potts.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Nice of You to Be There for Me",
+      "artist": "A Place to Bury Strangers",
+      "has_synced": false,
+      "path": "select/21_Nice_of_You_to_Be_There_for_Me_A_Place_to_Bury_Strangers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "There For You",
+      "artist": "Martin Garrix, Troye Sivan",
+      "has_synced": false,
+      "path": "select/pl_01_There_For_You_Martin_Garrix,_Troye_Sivan.txt"
+    }
+  ]
+}
